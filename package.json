@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "my global commands",
   "main": "index.js",
-  "bin": [
-    "global": "npm list -g --depth=0"
-  ],
+  "bin": {
+    "global": "./cli.js"
+  },
   "scripts": {
     "setup": "node index.js"
   },
