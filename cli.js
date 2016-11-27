@@ -22,10 +22,5 @@ if (commands[0] === 'list') {
 } 
 
 if (commands[0] === 'install') {
-  const args = [
-    'run',
-    'setup'
-  ];
-
-  spawn('npm', args, {stdio: 'inherit'});
+  require('.');
 } 
