@@ -1,0 +1,25 @@
+{
+  "name": "global",
+  "version": "1.0.0",
+  "description": "my global commands",
+  "main": "index.js",
+  "bin": [
+    "global": "npm list -g --depth=0"
+  ],
+  "scripts": {
+    "setup": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abouthiroppy/global.git"
+  },
+  "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abouthiroppy/global/issues"
+  },
+  "homepage": "https://github.com/abouthiroppy/global#readme",
+  "dependencies": {
+    "cross-spawn": "^5.0.1"
+  }
+}
