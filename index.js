@@ -7,6 +7,7 @@ const packages = [
   'electron',
   'emoj',
   'fixpack',
+  'greenkeeper',
   'honyaku',
   'my-dish',
   'np',
