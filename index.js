@@ -10,6 +10,7 @@ const packages = [
   'greenkeeper',
   'honyaku',
   'my-dish',
+  'npm-check-updates',
   'np',
   'placehold-cli',
   'rgb-hex-cli',
