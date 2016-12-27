@@ -4,6 +4,7 @@ const spawn = require('cross-spawn');
 
 const packages = [
   'babel-cli',
+  'babel-init',
   'electron',
   'emoj',
   'fixpack',
