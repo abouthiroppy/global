@@ -12,7 +12,9 @@ const packages = [
   'honyaku',
   'my-dish',
   'npm-check-updates',
+  'npm-package-status',
   'np',
+  'pageres-cli',
   'placehold-cli',
   'rgb-hex-cli',
   'yarn'
