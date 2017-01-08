@@ -1,6 +1,6 @@
 {
   "name": "@about_hiroppy/global",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "my global commands",
   "main": "index.js",
   "bin": {
