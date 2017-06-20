@@ -7,20 +7,15 @@ const packages = [
   'babel-init',
   'core-validate-commit',
   'create-react-template',
-  // 'electron',
   'emoj',
-  // 'fixpack',
   'greenkeeper',
   'honyaku',
   'my-dish',
   'node-committer',
-  // 'npm-check-updates',
-  // 'npm-package-status',
   'np',
   'pageres-cli',
   'placehold-cli',
-  // 'rgb-hex-cli',
-  'yarn'
+  'tern'
 ];
 
 const args = [
