@@ -3,19 +3,20 @@
 const spawn = require('cross-spawn');
 
 const packages = [
-  'babel-cli',
-  'babel-init',
+  // 'babel-cli',
+  // 'babel-init',
   'core-validate-commit',
   'create-react-template',
-  'emoj',
-  'greenkeeper',
+  // 'emoj',
+  // 'greenkeeper',
   'honyaku',
   'my-dish',
   'node-committer',
   'np',
-  'pageres-cli',
+  // 'pageres-cli',
   'placehold-cli',
-  'tern'
+  'tern',
+  'lerna'
 ];
 
 const args = [
